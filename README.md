@@ -7,8 +7,6 @@
 ### Group: JSE05
 A new Flutter project.
 
-Certainly! Below is a simple README file that you can include in your project. You can customize it further based on your project's specific details.
-
 ---
 
 # Sports Fan App
